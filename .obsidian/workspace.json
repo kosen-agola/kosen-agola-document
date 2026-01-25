@@ -11,10 +11,14 @@
             "id": "753d22996219bc3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "高専のアゴラ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "高専のアゴラ"
             }
           }
         ]
@@ -178,5 +182,7 @@
     }
   },
   "active": "753d22996219bc3f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "高専のアゴラ.md"
+  ]
 }
