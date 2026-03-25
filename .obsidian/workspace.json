@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "範囲"
             }
+          },
+          {
+            "id": "97561131322249c9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "e2345a7143bbda87",
+  "active": "97561131322249c9",
   "lastOpenFiles": [
     "Readme.md",
     "1年後期期末/範囲.md",
